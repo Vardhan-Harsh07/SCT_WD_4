@@ -15,7 +15,7 @@ Welcome to my minimalistic and user-friendly To-Do List web application! This pr
 
 ## 🌐 Links
 - **Live Website**: [Visit the live website](https://sct-wd-4-pearl.vercel.app/)
-- **GitHub Repository**: [View the source code on GitHub](https://github.com/Vardhan-Harsh07/SCT_WD_4)
+
 
 ## 📝 Stay Productive!
 This To-Do List web app helps you stay organized and boost your productivity by managing your tasks efficiently. Try it out and streamline your daily tasks!
